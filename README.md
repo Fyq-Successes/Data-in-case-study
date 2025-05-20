@@ -1,2 +1,2 @@
 # Data-in-case-study
-The PDF file lists the values of the parameters used in the numerical experiments in the GDRO-IRP paper.
+The .zip file gives the MATLAB code for Algorithm 2 in the IISE paper.
